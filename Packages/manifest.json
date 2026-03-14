@@ -3,6 +3,7 @@
     "com.beardphantom.runtime-typecache": "https://github.com/thebeardphantom/Runtime-TypeCache.git?path=Packages/com.beardphantom.runtime-typecache",
     "com.coffee.upm-git-extension": "2.2.1",
     "com.cysharp.csprojmodifier": "https://github.com/Cysharp/CsprojModifier.git?path=src/CsprojModifier/Assets/CsprojModifier",
+    "com.cysharp.memorypack": "https://github.com/Cysharp/MemoryPack.git?path=src/MemoryPack.Unity/Assets/MemoryPack.Unity",
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
     "com.github-glitchenzo.nugetforunity": "4.5.0",
     "com.unity.ai.navigation": "2.0.12",
