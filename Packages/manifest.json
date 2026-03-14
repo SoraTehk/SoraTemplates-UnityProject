@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "com.coffee.upm-git-extension": "2.2.1",
+    "com.cysharp.csprojmodifier": "https://github.com/Cysharp/CsprojModifier.git?path=src/CsprojModifier/Assets/CsprojModifier",
     "com.github-glitchenzo.nugetforunity": "4.5.0",
     "com.unity.ai.navigation": "2.0.12",
     "com.unity.ide.rider": "3.0.39",
