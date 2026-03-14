@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.acegikmo.mathfs": "https://github.com/FreyaHolmer/Mathfs.git",
     "com.beardphantom.runtime-typecache": "https://github.com/thebeardphantom/Runtime-TypeCache.git?path=Packages/com.beardphantom.runtime-typecache",
     "com.coffee.upm-git-extension": "2.2.1",
     "com.cysharp.csprojmodifier": "https://github.com/Cysharp/CsprojModifier.git?path=src/CsprojModifier/Assets/CsprojModifier",
