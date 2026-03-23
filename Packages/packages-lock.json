@@ -307,6 +307,13 @@
       },
       "url": "https://packages.unity.com"
     },
+    "jp.co.cyberagent.buildmagic": {
+      "version": "https://github.com/CyberAgentGameEntertainment/BuildMagic.git?path=/Packages/jp.co.cyberagent.buildmagic",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "54a6930fcd69a6a9791ba31a864206491dca351e"
+    },
     "jp.hadashikick.vcontainer": {
       "version": "https://github.com/hadashiA/VContainer.git?path=VContainer/Assets/VContainer",
       "depth": 0,
