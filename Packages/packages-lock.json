@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.beardphantom.runtime-typecache": {
+      "version": "https://github.com/thebeardphantom/Runtime-TypeCache.git?path=Packages/com.beardphantom.runtime-typecache",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "33328e9652618c09bc6d11be8e7dc68be4d0f33a"
+    },
     "com.coffee.upm-git-extension": {
       "version": "2.2.1",
       "depth": 0,
